@@ -9,7 +9,11 @@ import Footer from './components/Footer'
 function App() {
 
 
-//! esto es un comentario de josue, en la linea 12
+
+
+
+
+//! este es el nuevo comentario de andre y josue 
 
   return (
     <>
