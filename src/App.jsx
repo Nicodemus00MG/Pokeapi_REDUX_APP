@@ -8,6 +8,9 @@ import Footer from './components/Footer'
 
 function App() {
 
+
+//! esto es un comentario de josue, en la linea 12
+
   return (
     <>
      <Routes>
