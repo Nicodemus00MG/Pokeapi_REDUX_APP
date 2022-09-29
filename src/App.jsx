@@ -8,7 +8,12 @@ import Footer from './components/Footer'
 
 function App() {
 
-// este es un comentario de andrea
+
+
+
+
+
+//! este es el nuevo comentario de andre y josue 
 
   return (
     <>
